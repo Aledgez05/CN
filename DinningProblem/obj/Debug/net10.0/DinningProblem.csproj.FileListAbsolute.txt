@@ -1,0 +1,14 @@
+C:\Users\alejandra.dominguez\Documents\CN\DinningProblem\bin\Debug\net10.0\DinningProblem.exe
+C:\Users\alejandra.dominguez\Documents\CN\DinningProblem\bin\Debug\net10.0\DinningProblem.deps.json
+C:\Users\alejandra.dominguez\Documents\CN\DinningProblem\bin\Debug\net10.0\DinningProblem.runtimeconfig.json
+C:\Users\alejandra.dominguez\Documents\CN\DinningProblem\bin\Debug\net10.0\DinningProblem.dll
+C:\Users\alejandra.dominguez\Documents\CN\DinningProblem\bin\Debug\net10.0\DinningProblem.pdb
+C:\Users\alejandra.dominguez\Documents\CN\DinningProblem\obj\Debug\net10.0\DinningProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejandra.dominguez\Documents\CN\DinningProblem\obj\Debug\net10.0\DinningProblem.AssemblyInfoInputs.cache
+C:\Users\alejandra.dominguez\Documents\CN\DinningProblem\obj\Debug\net10.0\DinningProblem.AssemblyInfo.cs
+C:\Users\alejandra.dominguez\Documents\CN\DinningProblem\obj\Debug\net10.0\DinningProblem.csproj.CoreCompileInputs.cache
+C:\Users\alejandra.dominguez\Documents\CN\DinningProblem\obj\Debug\net10.0\DinningProblem.dll
+C:\Users\alejandra.dominguez\Documents\CN\DinningProblem\obj\Debug\net10.0\refint\DinningProblem.dll
+C:\Users\alejandra.dominguez\Documents\CN\DinningProblem\obj\Debug\net10.0\DinningProblem.pdb
+C:\Users\alejandra.dominguez\Documents\CN\DinningProblem\obj\Debug\net10.0\DinningProblem.genruntimeconfig.cache
+C:\Users\alejandra.dominguez\Documents\CN\DinningProblem\obj\Debug\net10.0\ref\DinningProblem.dll
