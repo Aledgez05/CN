@@ -45,7 +45,7 @@ tableSemaphore.WaitOne();
 Fork firstFork;
 Fork secondFork;
 
-// Asimetria para evitar deadlock
+// Asimetria 
 if (id % 2 == 0)
 {
 firstFork = rightFork;

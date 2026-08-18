@@ -14,7 +14,7 @@ new Semaphore(4, 4);
 
 public static void Main(string[] args)
 {
-Console.WriteLine("=== CENA DE LOS FILOSOFOS ===");
+Console.WriteLine("Dinning problem");
 Console.WriteLine();
 
 Fork[] forks = new Fork[NumberOfPhilosophers];
@@ -54,6 +54,6 @@ t.Join();
 }
 
 Console.WriteLine();
-Console.WriteLine("Todos los filosofos terminaron.");
+Console.WriteLine("Todos los filosofos comieron.");
 }
 }
